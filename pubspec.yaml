@@ -36,6 +36,14 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   firebase_core: ^2.12.0
+  flutter_riverpod: ^2.3.6
+  firebase_storage: ^11.2.0
+  cloud_firestore: ^4.7.0
+  equatable: ^2.0.5
+  form_validators:
+    path: packages/form_validators
+  authentication_repository:
+    path: packages/firebase_auth_repository
 
 dev_dependencies:
   flutter_test:
