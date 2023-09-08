@@ -1,4 +1,4 @@
-# mazikon_app
+# dive_local_app
 
 A new Flutter project.
 
