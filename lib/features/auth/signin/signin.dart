@@ -37,8 +37,8 @@ class SignIn extends ConsumerWidget {
         }
       },
     );
-    return Column(
-      children: const [
+    return const Column(
+      children: [
         EmailField(),
         SizedBox(
           height: 16,
